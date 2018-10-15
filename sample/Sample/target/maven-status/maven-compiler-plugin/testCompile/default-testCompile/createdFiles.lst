@@ -1,0 +1,7 @@
+testing\BaseTest.class
+testing\AssumeConversionCondition.class
+testing\AssumeConversion.class
+testing\ConnectionCheckingTest.class
+testing\Condition.class
+testing\AccessCQServer.class
+testing\ConnectionCheckingJunit5Test.class

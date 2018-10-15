@@ -1,0 +1,7 @@
+<p>
+  product-list works!
+</p>
+
+<ul class="list-group"><li *ngFor="let hero of products" class="list-group-item"> 
+  <a routerLink="{{hero.id}}">{{hero.name}}</a></li>
+  <router-outlet></router-outlet>

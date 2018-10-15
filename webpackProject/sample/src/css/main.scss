@@ -1,0 +1,15 @@
+@import 'colors';
+
+#randomInt {
+background: $main;
+border :1px solid white;
+color: white;
+padding :5px;
+}
+
+#randomRange {
+background-color: $secondary;
+color: white;
+padding :5px;
+border :1px solid white;
+}
